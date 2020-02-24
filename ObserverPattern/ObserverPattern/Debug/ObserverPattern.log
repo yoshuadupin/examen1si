@@ -1,0 +1,3 @@
+﻿  ObserverPattern.cpp
+C:\Users\Rose\source\repos\ObserverPattern\ObserverPattern\ObserverPattern.cpp(47,23): warning C4018: '<': no coinciden signed/unsigned
+  ObserverPattern.vcxproj -> C:\Users\Rose\source\repos\ObserverPattern\Debug\ObserverPattern.exe

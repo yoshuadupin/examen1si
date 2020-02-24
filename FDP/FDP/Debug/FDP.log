@@ -1,0 +1,6 @@
+﻿  FDP.cpp
+C:\Users\Rose\source\repos\FDP\FDP\FDP.cpp(23,17): warning C4129: '_': secuencia de escape de carácter no reconocida
+C:\Users\Rose\source\repos\FDP\FDP\FDP.cpp(40,17): warning C4129: '^': secuencia de escape de carácter no reconocida
+C:\Users\Rose\source\repos\FDP\FDP\FDP.cpp(47,17): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\Users\Rose\source\repos\FDP\FDP\FDP.cpp(79,11): warning C4129: '^': secuencia de escape de carácter no reconocida
+  FDP.vcxproj -> C:\Users\Rose\source\repos\FDP\Debug\FDP.exe

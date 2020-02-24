@@ -84,8 +84,8 @@ public:
 int main()
 {
     Subject subj;
-    AmericanObserver pedro(&subj, "China"); // 7. Client configures the number and
-    EspanolObserver ana(&subj, "Argentina"); //    type of Observers
+    AmericanObserver pedro(&subj, "China"); 
+    EspanolObserver ana(&subj, "Argentina"); 
     AmericanObserver manuel(&subj, "China");
     subj.setVal("China");
     subj.setVal("Argentina");
